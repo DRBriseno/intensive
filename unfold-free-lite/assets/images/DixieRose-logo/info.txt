@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: syncopate-regular
+font link: https://www.fontsquirrel.com/fonts/syncopate
+font author: Astigmatic
+font author site: http://www.astigmatic.com/
+
+
+icon designer: Maria Marin
+icon designer link: /maria251
+        
+{"bg-gradient-0":"#D418EA","bg-gradient-1":"#ECD062","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
